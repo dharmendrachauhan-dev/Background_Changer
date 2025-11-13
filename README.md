@@ -3,7 +3,7 @@
 # Tools Used
 This Project is made react + Vite and Tailwind
 
-# How To Install and Run the Project on your Device
+# How To Install and Run the Project on your computer Device
 
 # Step-1
 1) You can download whole folder through download just above the repo.
